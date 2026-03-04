@@ -50,8 +50,8 @@ $ python task_manager.py listar
 
 ### 1. Clona el repositorio
 ```bash
-git clone https://github.com/TU-USUARIO/gestor-tareas-cli.git
-cd gestor-tareas-cli
+git clone https://github.com/YehiizonGCh/Task_Manager
+cd Task_Manager
 ```
 
 ### 2. Ejecuta directamente (sin instalar nada)
