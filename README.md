@@ -50,7 +50,7 @@ $ python task_manager.py listar
 
 ### 1. Clona el repositorio
 ```bash
-git clone https://github.com/YehiizonGCh/Task_Manager
+git clone https://github.com/YehiizonGCh/Task_Manager.git
 cd Task_Manager
 ```
 
